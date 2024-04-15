@@ -1,4 +1,6 @@
 # Connection Pool Prototpye
+
+You can run the application by first spinning up a mysql docker container and connecting to it. Then, check out the following functions `simulateConcurrentRequests()` and `simulateConnectionPool()`
  
 ## Results
 
